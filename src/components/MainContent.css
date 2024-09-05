@@ -1,0 +1,23 @@
+.content {
+  padding: 20px;
+  text-align: center;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 80%;
+}
+
+.about-section {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+.about-section h2 {
+  margin-bottom: 10px;
+}
